@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.github.bThink-BGU</groupId>
             <artifactId>BPjs-Context</artifactId>
-            <version>master-c6edcc8198</version>
+            <version>c6edcc8198</version>
         </dependency>
         <!--//endregion context-->
     </dependencies>
